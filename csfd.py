@@ -141,3 +141,4 @@ while loop:
   else:
       input('Spatne! Zmackni enter pro pokracovani...')
       print(48 * '=')
+      
